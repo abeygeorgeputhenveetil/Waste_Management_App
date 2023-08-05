@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="@drawable/background">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <!-- Add UI elements to display waste disposal tips, for example, TextViews or WebView -->
+        <!-- Replace this with your desired content for waste disposal tips -->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Waste Disposal Tips"
+            android:textSize="24sp"
+            android:textStyle="bold|italic"
+            android:gravity="center"
+            android:textColor="@color/black"
+            android:layout_marginTop="32dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:text="1. Reduce, Reuse, Recycle: Follow the three Rs – Reduce your waste generation, Reuse items whenever possible, and Recycle materials like paper, plastic, glass, and metal.
+
+\n\n2. Composting: Create a compost pile for organic waste like fruit and vegetable scraps, coffee grounds, and yard trimmings. Composting enriches soil and reduces landfill waste.
+
+\n\n3. Donate or Sell: Instead of throwing away items in good condition, consider donating to charities or selling them to reduce landfill waste.
+
+\n\n4. Proper E-Waste Disposal: Dispose of electronic waste (e-waste) like old phones, computers, and batteries through proper recycling programs to prevent harmful chemicals from contaminating the environment.
+
+\n\n5. Avoid Single-Use Plastics: Opt for reusable items like water bottles, cloth bags, and containers to reduce plastic waste.
+
+\n\n6. Safe Medication Disposal: Follow proper guidelines for disposing of expired or unused medications to prevent them from entering water systems.
+
+\n\n7. Hazardous Waste: Dispose of hazardous waste such as paints, solvents, and chemicals through designated collection centers to prevent pollution.
+
+\n\n8. Proper Packaging Disposal: Break down and recycle cardboard boxes, rinse and recycle plastic containers, and dispose of packaging materials responsibly.
+
+\n\n9. Buy in Bulk: Purchase products in bulk to reduce excessive packaging waste and save money.
+
+\n\n10. Educate and Advocate: Spread awareness about waste management in your community and advocate for sustainable practices to encourage responsible waste disposal.
+
+\n\nImplementing these waste disposal tips in your daily life can significantly contribute to reducing your environmental impact and promoting a healthier planet."
+            android:layout_marginTop="10dp"
+            android:textSize="12sp"/>
+
+    </LinearLayout>
+
+</ScrollView>
